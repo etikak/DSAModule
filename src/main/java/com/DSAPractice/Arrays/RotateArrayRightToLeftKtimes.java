@@ -1,4 +1,4 @@
-package com.DSAPractice;
+package com.DSAPractice.Arrays;
 
 import java.util.Arrays;
 
